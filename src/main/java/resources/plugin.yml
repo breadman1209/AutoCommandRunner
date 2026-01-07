@@ -1,0 +1,6 @@
+name: AutoCommandRunner
+version: 1.0
+main: me.autocmd.AutoCommandRunner
+api-version: 1.21
+author: BreadMan1209
+description: Runs configurable console commands on server startup
